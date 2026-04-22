@@ -1,0 +1,1037 @@
+[
+  {
+    "post_id": "CAFFEDELLI_DIA_01",
+    "folder": "DIA_01_REEL_MANIFESTO",
+    "data_agendada": "2026-04-22T18:00:00-03:00",
+    "tipo": "REEL",
+    "formato": {
+      "proporcao": "9:16",
+      "resolucao_video": "720p (1280x720) - pode ser upscale no CapCut para 1080x1920",
+      "duracao_segundos": 6,
+      "modelo_gerador": "Wan 2.7 image-to-video 720p (preserva fidelidade da embalagem)"
+    },
+    "arquivos": [
+      "posts/DIA_01_REEL_MANIFESTO/dia01_final.jpg"
+    ],
+    "legenda": "A gente existe por uma tese: 90% do café especial brasileiro é exportado. Lá fora, sabem. Aqui, esquecemos.\n\nCaffédelli nasce para mudar isso. Bourbon Amarelo de Muzambinho, Fazenda Bela Vista desde 1925, SCA 90/100 — no seu país, na sua casa, na sua xícara.\n\nSafra 2026 aberta. Link na bio → caffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Manifesto / Proposito / Abertura da marca",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_02",
+    "folder": "DIA_02_CARROSSEL_90PORCENTO",
+    "data_agendada": "2026-04-24T19:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "resolucao": "~1024x1280 cada slide (ideal para carrossel Instagram)",
+      "quantidade_slides": 6
+    },
+    "arquivos": [
+      "posts/DIA_02_CARROSSEL_90PORCENTO/slide_1_capa.jpg",
+      "posts/DIA_02_CARROSSEL_90PORCENTO/slide_2_dados.jpg",
+      "posts/DIA_02_CARROSSEL_90PORCENTO/slide_3_porto.jpg",
+      "posts/DIA_02_CARROSSEL_90PORCENTO/slide_4_mapa_muzambinho.jpg",
+      "posts/DIA_02_CARROSSEL_90PORCENTO/slide_5_embalagem.jpg",
+      "posts/DIA_02_CARROSSEL_90PORCENTO/slide_6_cta.jpg"
+    ],
+    "legenda": "Você sabia que 90% do café especial brasileiro é exportado?\n\nO mundo bebe nossos melhores grãos enquanto a gente toma torrefação industrial. Na Caffédelli, a lógica inverte: o que produzimos na Fazenda Bela Vista fica para quem a gente conhece pelo nome — você.\n\nDeslize para entender a conta. →\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Educativo / Dados curiosos / Contra-narrativa",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_03",
+    "folder": "DIA_03_ESTATICO_SENSORIAL",
+    "data_agendada": "2026-04-26T10:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_03_ESTATICO_SENSORIAL/dia03_estatico_sensorial.jpg"
+    ],
+    "legenda": "Caramelo na entrada. Avelã torrada no meio de boca. Cana-de-açúcar no finish. Doçura 10/10.\n\nQuando o café tem origem de verdade, ele não precisa de descrição. Você reconhece pela primeira xícara.\n\nBourbon Amarelo · Muzambinho, MG · SCA 90/100.\nLink na bio.",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Sensorial / Produto",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_04",
+    "folder": "DIA_04_CARROSSEL_ALBUM_FAZENDA",
+    "data_agendada": "2026-04-29T18:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 6
+    },
+    "arquivos": [
+      "posts/DIA_04_CARROSSEL_ALBUM_FAZENDA/slide_1_amanhecer.jpg",
+      "posts/DIA_04_CARROSSEL_ALBUM_FAZENDA/slide_2_colheita.jpg",
+      "posts/DIA_04_CARROSSEL_ALBUM_FAZENDA/slide_3_terreiro.jpg",
+      "posts/DIA_04_CARROSSEL_ALBUM_FAZENDA/slide_4_torrefador.jpg",
+      "posts/DIA_04_CARROSSEL_ALBUM_FAZENDA/slide_5_embalagem.jpg",
+      "posts/DIA_04_CARROSSEL_ALBUM_FAZENDA/slide_6_cta.jpg"
+    ],
+    "legenda": "Um álbum de terça-feira. De onde o Caffédelli vem, quem colhe, quem seca, quem torra.\n\nQuatro gerações. Um talhão. Uma única variedade. 1.100 metros de altitude. 100 anos depois, ainda o mesmo rigor.\n\nPorque transparência é parte do preço. Deslize. →\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Terroir / Storytelling / Processo",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_05",
+    "folder": "DIA_05_ESTATICO_PREMIO_ILLY",
+    "data_agendada": "2026-05-01T19:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_05_ESTATICO_PREMIO_ILLY/dia05_premio_illy.jpg"
+    ],
+    "legenda": "\"Entre os dez melhores cafés do Brasil.\"\n— illycaffè · Prêmio Ernesto Illy · 2007\n\nVinte anos depois, continuamos na Fazenda Bela Vista. Mesmo talhão. Mesma variedade. Mesmo rigor.\n\nA diferença é que agora ele chega até você — caffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Prova social / Autoridade",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_06",
+    "folder": "DIA_06_CARROSSEL_BOURBON_AMARELO",
+    "data_agendada": "2026-05-03T10:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 5
+    },
+    "arquivos": [
+      "posts/DIA_06_CARROSSEL_BOURBON_AMARELO/slide_1_capa.jpg",
+      "posts/DIA_06_CARROSSEL_BOURBON_AMARELO/slide_2_origem.jpg",
+      "posts/DIA_06_CARROSSEL_BOURBON_AMARELO/slide_3_comparativo.jpg",
+      "posts/DIA_06_CARROSSEL_BOURBON_AMARELO/slide_4_sensorial.jpg",
+      "posts/DIA_06_CARROSSEL_BOURBON_AMARELO/slide_5_cta.jpg"
+    ],
+    "legenda": "Por que Bourbon Amarelo, e não qualquer café?\n\nPorque a mutação natural que tirou o pigmento vermelho da cereja também deu a ela mais açúcar. Mais difícil de colher. Mais raro de encontrar. E muito, muito mais doce na xícara.\n\nMenos de 5% do café brasileiro é Bourbon Amarelo. 100% do Caffédelli é.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Educativo / Variedade / Diferenciacao",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_07",
+    "folder": "DIA_07_ESTATICO_MANIFESTO",
+    "data_agendada": "2026-05-06T18:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "1:1",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_07_ESTATICO_MANIFESTO/dia07_manifesto.jpg"
+    ],
+    "legenda": "Hábito se faz no piloto automático. Hora marcada se faz por merecimento.\n\nQual a sua?",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Manifesto / Brand voice",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_08",
+    "folder": "DIA_08_CARROSSEL_5_ERROS",
+    "data_agendada": "2026-05-08T19:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 6
+    },
+    "arquivos": [
+      "posts/DIA_08_CARROSSEL_5_ERROS/slide_1_capa.jpg",
+      "posts/DIA_08_CARROSSEL_5_ERROS/slide_2_erro1.jpg",
+      "posts/DIA_08_CARROSSEL_5_ERROS/slide_3_erro2.jpg",
+      "posts/DIA_08_CARROSSEL_5_ERROS/slide_4_erro3.jpg",
+      "posts/DIA_08_CARROSSEL_5_ERROS/slide_5_erro4e5.jpg",
+      "posts/DIA_08_CARROSSEL_5_ERROS/slide_6_cta.jpg"
+    ],
+    "legenda": "Qual você ainda comete? Seja sincero. 👇\n\nSalva este carrossel. Na próxima xícara, faça cada um dos 5 passos. Você vai ouvir a diferença no primeiro gole.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Educativo pratico / Alto save potential",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_09",
+    "folder": "DIA_09_ESTATICO_HARMONIZACAO",
+    "data_agendada": "2026-05-10T10:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_09_ESTATICO_HARMONIZACAO/dia09_harmonizacao.jpg"
+    ],
+    "legenda": "Harmonização simples de domingo:\nCaffédelli · chocolate 70% · avelã torrada.\n\nA avelã do café encontra a avelã do ingrediente. O cacau amarga o que o café tem de doce. Química perfeita em 3 minutos.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Lifestyle / Receita / Harmonizacao",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_10",
+    "folder": "DIA_10_CARROSSEL_SCA_90",
+    "data_agendada": "2026-05-13T18:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 5
+    },
+    "arquivos": [
+      "posts/DIA_10_CARROSSEL_SCA_90/slide_1_capa.jpg",
+      "posts/DIA_10_CARROSSEL_SCA_90/slide_2_escala.jpg",
+      "posts/DIA_10_CARROSSEL_SCA_90/slide_3_atributos.jpg",
+      "posts/DIA_10_CARROSSEL_SCA_90/slide_4_cupping.jpg",
+      "posts/DIA_10_CARROSSEL_SCA_90/slide_5_cta_tipografia.jpg"
+    ],
+    "legenda": "SCA 80 é café especial. SCA 85 é raridade. SCA 90 é exceção.\n\nNão é autoelogio. É o que diz o laudo oficial ATeG da Safra 2026 da Caffédelli. O documento completo está no site.\n\nTransparência é parte do preço.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Autoridade tecnica / Transparencia",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_11",
+    "folder": "DIA_11_ESTATICO_ESCASSEZ",
+    "data_agendada": "2026-05-15T19:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_11_ESTATICO_ESCASSEZ/dia11_escassez.jpg"
+    ],
+    "legenda": "Lote Fundador: 200 pacotes numerados. Restam 23.\n\nQuando esgotar, a próxima disponibilidade é só em setembro — safra 2026/2 do talhão leste.\n\nLink na bio. (O número se atualiza a cada pedido.)",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Escassez / Urgencia / Conversao",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_12",
+    "folder": "DIA_12_CARROSSEL_CEREJA_A_XICARA",
+    "data_agendada": "2026-05-17T10:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 6
+    },
+    "arquivos": [
+      "posts/DIA_12_CARROSSEL_CEREJA_A_XICARA/slide_1_cereja.jpg",
+      "posts/DIA_12_CARROSSEL_CEREJA_A_XICARA/slide_2_colheita.jpg",
+      "posts/DIA_12_CARROSSEL_CEREJA_A_XICARA/slide_3_processo.jpg",
+      "posts/DIA_12_CARROSSEL_CEREJA_A_XICARA/slide_4_torra.jpg",
+      "posts/DIA_12_CARROSSEL_CEREJA_A_XICARA/slide_5_moagem.jpg",
+      "posts/DIA_12_CARROSSEL_CEREJA_A_XICARA/slide_6_xicara.jpg"
+    ],
+    "legenda": "Da árvore à sua xícara: 9 meses. Uma fazenda. Uma variedade. Uma torra. Uma moagem.\n\nAlguma pergunta sobre por que custa o que custa?\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Terroir / Processo / Storytelling",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_13",
+    "folder": "DIA_13_CARROSSEL_FECHAMENTO",
+    "data_agendada": "2026-05-20T18:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 5
+    },
+    "arquivos": [
+      "posts/DIA_13_CARROSSEL_FECHAMENTO/slide_1_capa.jpg",
+      "posts/DIA_13_CARROSSEL_FECHAMENTO/slide_2_numeros.jpg",
+      "posts/DIA_13_CARROSSEL_FECHAMENTO/slide_3_xicara_recebida.jpg",
+      "posts/DIA_13_CARROSSEL_FECHAMENTO/slide_4_quote.jpg",
+      "posts/DIA_13_CARROSSEL_FECHAMENTO/slide_5_cta_final.jpg"
+    ],
+    "legenda": "30 dias. Um mês mostrando de onde vem cada xícara de Caffédelli.\n\nSe você chegou até aqui, obrigado. A Safra 2026 é nossa primeira feita para o Brasil inteiro. E você é parte dela.\n\nTe vejo na próxima xícara.\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Fechamento / CTA emocional",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_14",
+    "folder": "DIA_14_CARROSSEL_V60_PERFEITO",
+    "data_agendada": "2026-05-22T19:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 5
+    },
+    "arquivos": [
+      "posts/DIA_14_CARROSSEL_V60_PERFEITO/slide_1_capa.jpg",
+      "posts/DIA_14_CARROSSEL_V60_PERFEITO/slide_2_passo1.jpg",
+      "posts/DIA_14_CARROSSEL_V60_PERFEITO/slide_3_passo2.jpg",
+      "posts/DIA_14_CARROSSEL_V60_PERFEITO/slide_4_passo3.jpg",
+      "posts/DIA_14_CARROSSEL_V60_PERFEITO/slide_5_resultado.jpg"
+    ],
+    "legenda": "3 minutos e 20 segundos. Isso é tudo.\n\n15 gramas de café moído na hora. 250 ml de água a 92°C. Um bloom de 30 segundos. Três pours em espiral até completar o peso.\n\nSalva esse carrossel. Na próxima manhã, cronometra. Você vai sentir a diferença no primeiro gole.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Preparo / Tutorial pratico / Alto save rate",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_15",
+    "folder": "DIA_15_ESTATICO_DOMINGO_LENTO",
+    "data_agendada": "2026-05-24T10:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_15_ESTATICO_DOMINGO_LENTO/dia15_domingo_lento.jpg"
+    ],
+    "legenda": "Domingo começa com o que você escolhe pôr na xícara.\n\nCaffédelli · moagem fresca · água a 92°C · e nenhum compromisso pelas próximas duas horas.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Lifestyle / Slow living",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_16",
+    "folder": "DIA_16_CARROSSEL_CAFEINA_CORPO",
+    "data_agendada": "2026-05-26T18:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 6
+    },
+    "arquivos": [
+      "posts/DIA_16_CARROSSEL_CAFEINA_CORPO/slide_1_capa.jpg",
+      "posts/DIA_16_CARROSSEL_CAFEINA_CORPO/slide_2_15min.jpg",
+      "posts/DIA_16_CARROSSEL_CAFEINA_CORPO/slide_3_45min.jpg",
+      "posts/DIA_16_CARROSSEL_CAFEINA_CORPO/slide_4_2h.jpg",
+      "posts/DIA_16_CARROSSEL_CAFEINA_CORPO/slide_5_6h.jpg",
+      "posts/DIA_16_CARROSSEL_CAFEINA_CORPO/slide_6_cta.jpg"
+    ],
+    "legenda": "Quanto tempo a cafeína leva para chegar? E quanto tempo fica?\n\nEm 15 minutos você já está absorvendo. Em 45, atinge o pico — é a hora em que seu foco está mais afiado. Em 2 horas, o fígado começa a quebrar. Em 6 horas, metade ainda está no seu corpo.\n\nPor isso café depois das 16h mexe com o sono. E por isso o ritual do começo do dia importa tanto.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Saude / Ciencia do cafe",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_17",
+    "folder": "DIA_17_ESTATICO_BRIGADEIRO",
+    "data_agendada": "2026-05-28T19:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_17_ESTATICO_BRIGADEIRO/dia17_brigadeiro.jpg"
+    ],
+    "legenda": "Receita de harmonização brasileira:\n\nUm espresso curto + um brigadeiro tradicional ainda morno + silêncio de quem já entendeu que tarde boa é aquela que não tem plano.\n\nO cacau amarga o que o café tem de doce. O açúcar do doce amacia a acidez do espresso. Química perfeita.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Harmonizacao / Receita",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_18",
+    "folder": "DIA_18_CARROSSEL_PRENSA_FRANCESA",
+    "data_agendada": "2026-05-30T10:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 5
+    },
+    "arquivos": [
+      "posts/DIA_18_CARROSSEL_PRENSA_FRANCESA/slide_1_capa.jpg",
+      "posts/DIA_18_CARROSSEL_PRENSA_FRANCESA/slide_2_passo1.jpg",
+      "posts/DIA_18_CARROSSEL_PRENSA_FRANCESA/slide_3_passo2.jpg",
+      "posts/DIA_18_CARROSSEL_PRENSA_FRANCESA/slide_4_passo3.jpg",
+      "posts/DIA_18_CARROSSEL_PRENSA_FRANCESA/slide_5_cta.jpg"
+    ],
+    "legenda": "Prensa Francesa sem amargor: é moagem grossa, água a 92°C e 4 minutos. Só isso.\n\nO erro mais comum é moagem fina — vira papa e amarga. O segundo é água fervendo — queima os óleos do café. O terceiro é pressa no pistão — extração além de 4 minutos amarga tudo.\n\nSalva esse carrossel e tenta no próximo fim de semana.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Preparo / Tutorial pratico",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_19",
+    "folder": "DIA_19_ESTATICO_MANIFESTO_MANHA",
+    "data_agendada": "2026-06-02T18:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "1:1",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_19_ESTATICO_MANIFESTO_MANHA/dia19_manifesto.jpg"
+    ],
+    "legenda": "O que você bebe pela manhã define o resto.\n\nDefine o ritmo, define o humor, define o que você vai escolher pôr na sua xícara pelos próximos 365 dias.\n\nMerece atenção.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Manifesto / Brand voice",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_20",
+    "folder": "DIA_20_CARROSSEL_BOLO_CAFE_AVELA",
+    "data_agendada": "2026-06-04T19:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 6
+    },
+    "arquivos": [
+      "posts/DIA_20_CARROSSEL_BOLO_CAFE_AVELA/slide_1_capa.jpg",
+      "posts/DIA_20_CARROSSEL_BOLO_CAFE_AVELA/slide_2_ingredientes.jpg",
+      "posts/DIA_20_CARROSSEL_BOLO_CAFE_AVELA/slide_3_massa.jpg",
+      "posts/DIA_20_CARROSSEL_BOLO_CAFE_AVELA/slide_4_forno.jpg",
+      "posts/DIA_20_CARROSSEL_BOLO_CAFE_AVELA/slide_5_servido.jpg",
+      "posts/DIA_20_CARROSSEL_BOLO_CAFE_AVELA/slide_6_cta.jpg"
+    ],
+    "legenda": "Bolo de café com avelã para os próximos dias frios.\n\n2 xícaras de farinha. 1 de açúcar mascavo. 200 ml de café forte (substituindo o leite). 3 ovos. 100g de manteiga. 100g de avelãs torradas.\n\nMistura tudo até ficar homogêneo. Forno a 180°C por 40 minutos. Fatia acompanha espresso.\n\nSalva a receita. Marca quem você convidaria pra provar.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Receita / Harmonizacao / Viral",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_21",
+    "folder": "DIA_21_CARROSSEL_MEIO_AMBIENTE",
+    "data_agendada": "2026-06-05T18:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 5
+    },
+    "arquivos": [
+      "posts/DIA_21_CARROSSEL_MEIO_AMBIENTE/slide_1_capa.jpg",
+      "posts/DIA_21_CARROSSEL_MEIO_AMBIENTE/slide_2_sombra.jpg",
+      "posts/DIA_21_CARROSSEL_MEIO_AMBIENTE/slide_3_agua.jpg",
+      "posts/DIA_21_CARROSSEL_MEIO_AMBIENTE/slide_4_polinizacao.jpg",
+      "posts/DIA_21_CARROSSEL_MEIO_AMBIENTE/slide_5_cta.jpg"
+    ],
+    "legenda": "Hoje é Dia Mundial do Meio Ambiente. E café é assunto de terra.\n\nPlantar sob a sombra de árvores nativas mantém o solo vivo. O processo cereja descascado usa 80% menos água. As abelhas nativas polinizam as flores brancas do cafeeiro toda primavera.\n\nNa Fazenda Bela Vista, isso não é marketing — é como se planta café desde 1925.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Sustentabilidade / Data comemorativa Meio Ambiente",
+    "data_especial": "Dia Mundial do Meio Ambiente (05/06)",
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_22",
+    "folder": "DIA_22_ESTATICO_MESA_SABADO",
+    "data_agendada": "2026-06-07T10:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_22_ESTATICO_MESA_SABADO/dia22_mesa_sabado.jpg"
+    ],
+    "legenda": "Sábado, 09:17. Café, livro, silêncio.\n\nMarca o começo da semana que você merece. O tempo que você tira pra ler 10 páginas vale o dobro se o café for bom.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Lifestyle / Slow living",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_23",
+    "folder": "DIA_23_CARROSSEL_CAFE_FOCO",
+    "data_agendada": "2026-06-09T18:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 6
+    },
+    "arquivos": [
+      "posts/DIA_23_CARROSSEL_CAFE_FOCO/slide_1_capa.jpg",
+      "posts/DIA_23_CARROSSEL_CAFE_FOCO/slide_2_adenosina.jpg",
+      "posts/DIA_23_CARROSSEL_CAFE_FOCO/slide_3_dopamina.jpg",
+      "posts/DIA_23_CARROSSEL_CAFE_FOCO/slide_4_janela.jpg",
+      "posts/DIA_23_CARROSSEL_CAFE_FOCO/slide_5_dica.jpg",
+      "posts/DIA_23_CARROSSEL_CAFE_FOCO/slide_6_cta.jpg"
+    ],
+    "legenda": "Por que algumas manhãs funcionam — e outras não?\n\nÉ química. A cafeína imita a adenosina (a molécula que te deixa cansado) e ocupa os receptores que dão sensação de sono. Dopamina sobe. O foco vira janela — dos 30 minutos às 2 horas depois da primeira xícara.\n\nUse bem essa janela. Tarefa difícil entra aí. Reunião chata, depois.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Saude / Ciencia / Produtividade",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_24",
+    "folder": "DIA_24_ESTATICO_AEROPRESS",
+    "data_agendada": "2026-06-11T19:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_24_ESTATICO_AEROPRESS/dia24_aeropress.jpg"
+    ],
+    "legenda": "AeroPress em 60 segundos.\n\n15g de café moído médio. 200ml de água a 85°C. Um minuto em infusão. Pressão suave e constante no pistão.\n\nÉ o método mais subestimado que existe. Sabor limpo, corpo presente, sem gosto residual de papel. Perfeito para dias apressados — ou para quem está começando.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Preparo / Metodo rapido",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_25",
+    "folder": "DIA_25_CARROSSEL_DIA_DOS_NAMORADOS",
+    "data_agendada": "2026-06-12T18:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 6
+    },
+    "arquivos": [
+      "posts/DIA_25_CARROSSEL_DIA_DOS_NAMORADOS/slide_1_capa.jpg",
+      "posts/DIA_25_CARROSSEL_DIA_DOS_NAMORADOS/slide_2_gesto.jpg",
+      "posts/DIA_25_CARROSSEL_DIA_DOS_NAMORADOS/slide_3_manha.jpg",
+      "posts/DIA_25_CARROSSEL_DIA_DOS_NAMORADOS/slide_4_combo.jpg",
+      "posts/DIA_25_CARROSSEL_DIA_DOS_NAMORADOS/slide_5_quote.jpg",
+      "posts/DIA_25_CARROSSEL_DIA_DOS_NAMORADOS/slide_6_cta.jpg"
+    ],
+    "legenda": "Casais que tomam o mesmo café conversam melhor.\n\nFato não comprovado, mas verdadeiro.\n\nPara o 12 de junho, a Caffédelli montou um combo de dois pacotes — com fita dourada, frete grátis e pronta entrega.\n\nO presente que acorda junto.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Dia dos Namorados / Romance / Combo",
+    "data_especial": "Dia dos Namorados (12/06)",
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_26",
+    "folder": "DIA_26_ESTATICO_AFFOGATO",
+    "data_agendada": "2026-06-13T10:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_26_ESTATICO_AFFOGATO/dia26_affogato.jpg"
+    ],
+    "legenda": "Affogato é preguiça italiana que virou sobremesa de chef.\n\nDuas bolas de sorvete de baunilha numa taça. Um espresso curto bem forte despejado por cima. Uma colher de prata e 90 segundos de silêncio.\n\nO quente derrete o frio. O amargo corta o doce. O final da refeição vira a melhor parte dela.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Receita / Harmonizacao rapida",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_27",
+    "folder": "DIA_27_CARROSSEL_CHEMEX",
+    "data_agendada": "2026-06-16T18:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 5
+    },
+    "arquivos": [
+      "posts/DIA_27_CARROSSEL_CHEMEX/slide_1_capa.jpg",
+      "posts/DIA_27_CARROSSEL_CHEMEX/slide_2_filtro.jpg",
+      "posts/DIA_27_CARROSSEL_CHEMEX/slide_3_receita.jpg",
+      "posts/DIA_27_CARROSSEL_CHEMEX/slide_4_quando.jpg",
+      "posts/DIA_27_CARROSSEL_CHEMEX/slide_5_cta.jpg"
+    ],
+    "legenda": "Chemex existe desde 1941. Foi desenhada por um químico alemão que queria café sem os óleos e sem os sedimentos.\n\nO segredo é o filtro — 3x mais grosso que os outros. Retém tudo o que não é líquido. Resultado: um café mais leve, mais nítido, com notas florais e cítricas que sumiriam em outros métodos.\n\nPara um Bourbon do Sul de Minas, brilha.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Preparo / Metodo premium",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_28",
+    "folder": "DIA_28_ESTATICO_QUOTE_SENSORIAL",
+    "data_agendada": "2026-06-18T19:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "1:1",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_28_ESTATICO_QUOTE_SENSORIAL/dia28_quote.jpg"
+    ],
+    "legenda": "Um café bom não te acorda, te apresenta.\n\nTe apresenta ao dia, à primeira ideia, ao que ainda não aconteceu. É o início oficial de algo — e por isso merece ser tratado com o mesmo cuidado que qualquer coisa importante.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Manifesto / Brand voice",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_29",
+    "folder": "DIA_29_CARROSSEL_RITUAIS_MUNDO",
+    "data_agendada": "2026-06-20T10:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 6
+    },
+    "arquivos": [
+      "posts/DIA_29_CARROSSEL_RITUAIS_MUNDO/slide_1_capa.jpg",
+      "posts/DIA_29_CARROSSEL_RITUAIS_MUNDO/slide_2_etiopia.jpg",
+      "posts/DIA_29_CARROSSEL_RITUAIS_MUNDO/slide_3_turquia.jpg",
+      "posts/DIA_29_CARROSSEL_RITUAIS_MUNDO/slide_4_italia.jpg",
+      "posts/DIA_29_CARROSSEL_RITUAIS_MUNDO/slide_5_japao.jpg",
+      "posts/DIA_29_CARROSSEL_RITUAIS_MUNDO/slide_6_brasil.jpg"
+    ],
+    "legenda": "Todo país transforma café em cultura própria.\n\nNa Etiópia, onde o café nasceu, a cerimônia dura 3 horas e 3 rodadas. Na Turquia, o pó é fino e a borra conta o futuro. Na Itália, espresso al banco em 90 segundos, nunca depois das 11h. No Japão, kissaten silencioso com pour-over e jazz. No Brasil, coador de pano, bule esmaltado e pão de queijo.\n\nQual é o seu ritual?\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Cultura / Ritual / Lifestyle",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_30",
+    "folder": "DIA_30_ESTATICO_CAFE_NA_CHUVA",
+    "data_agendada": "2026-06-23T18:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_30_ESTATICO_CAFE_NA_CHUVA/dia30_cafe_chuva.jpg"
+    ],
+    "legenda": "Dias como hoje foram inventados pra isso. Chuva lá fora, luminária acesa, xícara fumegante. Meia hora sem celular, dois poemas relidos, silêncio bom.\n\nO café não salva o dia. Ele só deixa o dia mais seu.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Lifestyle / Inverno / Aconchego",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_31",
+    "folder": "DIA_31_CARROSSEL_SAO_JOAO",
+    "data_agendada": "2026-06-24T18:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 5
+    },
+    "arquivos": [
+      "posts/DIA_31_CARROSSEL_SAO_JOAO/slide_1_capa.jpg",
+      "posts/DIA_31_CARROSSEL_SAO_JOAO/slide_2_pacoca.jpg",
+      "posts/DIA_31_CARROSSEL_SAO_JOAO/slide_3_canjica.jpg",
+      "posts/DIA_31_CARROSSEL_SAO_JOAO/slide_4_queimado.jpg",
+      "posts/DIA_31_CARROSSEL_SAO_JOAO/slide_5_cta.jpg"
+    ],
+    "legenda": "Em Minas Gerais, onde a Caffédelli nasce, São João é mais do que festa — é tradição de quintal, fogueira controlada e café servido o tempo todo.\n\nTrês harmonizações para hoje à noite: café + paçoca (a mineiridade pura), café + canjica (doce e canela fazendo a ponte) e o clássico café queimado (com cachaça e canela no bule).\n\nBoas noites começam em volta do fogo.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Data especial Sao Joao / Harmonizacao brasileira",
+    "data_especial": "São João (24/06)",
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_32",
+    "folder": "DIA_32_CARROSSEL_MOKA_ITALIANA",
+    "data_agendada": "2026-06-25T19:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 4
+    },
+    "arquivos": [
+      "posts/DIA_32_CARROSSEL_MOKA_ITALIANA/slide_1_capa.jpg",
+      "posts/DIA_32_CARROSSEL_MOKA_ITALIANA/slide_2_passos.jpg",
+      "posts/DIA_32_CARROSSEL_MOKA_ITALIANA/slide_3_erros.jpg",
+      "posts/DIA_32_CARROSSEL_MOKA_ITALIANA/slide_4_final.jpg"
+    ],
+    "legenda": "A moka é o espresso mais democrático do mundo. Inventada em 1933 por Alfonso Bialetti. Hoje está em mais de 200 milhões de cozinhas.\n\nA receita é simples: água quente (não fervendo) na base, café médio rasado no filtro (nunca socado), fogo médio até o borbulhar abafar. Tira do fogo. Serve sem mexer.\n\nO café que sai dali não é espresso de cafeteria — é outra coisa. E essa outra coisa, quando é com um bom grão, pode ser linda.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Preparo / Moka / Metodo classico",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_33",
+    "folder": "DIA_33_ESTATICO_PAO_DE_QUEIJO",
+    "data_agendada": "2026-06-27T10:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_33_ESTATICO_PAO_DE_QUEIJO/dia33_pao_queijo.jpg"
+    ],
+    "legenda": "A harmonização mais mineira que existe: pão de queijo quente + um café que não deixa dúvida sobre de onde veio.\n\nO queijo canastra salga o que o café tem de doce. O amido do polvilho acolchoa a acidez. A manteiga da terra junta tudo. Cinco minutos que resolvem qualquer sábado.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Harmonizacao brasileira / Cafe da manha",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_34",
+    "folder": "DIA_34_CARROSSEL_CAFE_LONGEVIDADE",
+    "data_agendada": "2026-06-30T18:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 6
+    },
+    "arquivos": [
+      "posts/DIA_34_CARROSSEL_CAFE_LONGEVIDADE/slide_1_capa.jpg",
+      "posts/DIA_34_CARROSSEL_CAFE_LONGEVIDADE/slide_2_coracao.jpg",
+      "posts/DIA_34_CARROSSEL_CAFE_LONGEVIDADE/slide_3_cerebro.jpg",
+      "posts/DIA_34_CARROSSEL_CAFE_LONGEVIDADE/slide_4_figado.jpg",
+      "posts/DIA_34_CARROSSEL_CAFE_LONGEVIDADE/slide_5_limite.jpg",
+      "posts/DIA_34_CARROSSEL_CAFE_LONGEVIDADE/slide_6_cta.jpg"
+    ],
+    "legenda": "Em 50 anos de pesquisa, o café deixou de ser suspeito para virar aliado.\n\nConsumidores moderados (3 a 5 xícaras por dia) apresentam menor risco cardiovascular, menos Parkinson e Alzheimer, menor incidência de doenças hepáticas. A ciência é clara — e o limite também: 400mg de cafeína por dia. Cerca de 4 xícaras de café coado forte.\n\nAcima disso, o corpo reclama. Como quase tudo que é bom, só é bom na dose certa.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Saude / Ciencia / Longevidade",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_35",
+    "folder": "DIA_35_ESTATICO_NOITE_INVERNO",
+    "data_agendada": "2026-07-02T19:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_35_ESTATICO_NOITE_INVERNO/dia35_noite_inverno.jpg"
+    ],
+    "legenda": "Julho entrou com frio. A boa notícia: todos os aquecedores do mundo funcionam melhor com uma xícara na mão.\n\nJanela fechada, luminária acesa, cobertor pesado, café quente. Uma hora só sua antes de dormir.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Lifestyle / Inverno / Aconchego",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_36",
+    "folder": "DIA_36_CARROSSEL_CAFE_COTIDIANO",
+    "data_agendada": "2026-07-04T10:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 6
+    },
+    "arquivos": [
+      "posts/DIA_36_CARROSSEL_CAFE_COTIDIANO/slide_1_capa.jpg",
+      "posts/DIA_36_CARROSSEL_CAFE_COTIDIANO/slide_2_06h.jpg",
+      "posts/DIA_36_CARROSSEL_CAFE_COTIDIANO/slide_3_10h.jpg",
+      "posts/DIA_36_CARROSSEL_CAFE_COTIDIANO/slide_4_15h.jpg",
+      "posts/DIA_36_CARROSSEL_CAFE_COTIDIANO/slide_5_20h.jpg",
+      "posts/DIA_36_CARROSSEL_CAFE_COTIDIANO/slide_6_cta.jpg"
+    ],
+    "legenda": "O brasileiro médio toma 5 xícaras por dia.\n\nSeis da manhã, antes do trabalho. Dez, na pausa do meio. Quinze, na padaria. Vinte, depois do jantar.\n\nA pergunta não é quantos cafés você toma. É quantos deles valem a pena.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Cultura brasileira / Cotidiano",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_37",
+    "folder": "DIA_37_CARROSSEL_CAFE_PRETREINO",
+    "data_agendada": "2026-07-07T18:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 5
+    },
+    "arquivos": [
+      "posts/DIA_37_CARROSSEL_CAFE_PRETREINO/slide_1_capa.jpg",
+      "posts/DIA_37_CARROSSEL_CAFE_PRETREINO/slide_2_janela.jpg",
+      "posts/DIA_37_CARROSSEL_CAFE_PRETREINO/slide_3_dose.jpg",
+      "posts/DIA_37_CARROSSEL_CAFE_PRETREINO/slide_4_beneficios.jpg",
+      "posts/DIA_37_CARROSSEL_CAFE_PRETREINO/slide_5_cta.jpg"
+    ],
+    "legenda": "Café antes do treino funciona. E a ciência é direta sobre como usar.\n\nJanela ideal: 30 a 60 minutos antes. Tempo para cafeína cair no sangue e chegar no cérebro.\n\nDose: 3 a 6 mg por kg. Para uma pessoa de 70kg, é uma xícara grande forte. Mais do que isso não aumenta o efeito — só os colaterais.\n\nResultado: +12% de resistência, +7% de força em séries curtas, percepção de esforço menor. Recomendado até pelo Comitê Olímpico.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Saude / Ciencia / Performance esportiva",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_38",
+    "folder": "DIA_38_ESTATICO_QUOTE_HORA_MARCADA",
+    "data_agendada": "2026-07-09T19:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "1:1",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_38_ESTATICO_QUOTE_HORA_MARCADA/dia38_quote.jpg"
+    ],
+    "legenda": "Tempo é democrático. Horas marcadas são luxo.\n\nTodo mundo tem 24 por dia. A diferença é quem escolhe separar uma delas pra algo que não é útil — só é bom.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Manifesto / Brand voice",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_39",
+    "folder": "DIA_39_CARROSSEL_CAPPUCCINO_CASEIRO",
+    "data_agendada": "2026-07-11T10:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 6
+    },
+    "arquivos": [
+      "posts/DIA_39_CARROSSEL_CAPPUCCINO_CASEIRO/slide_1_capa.jpg",
+      "posts/DIA_39_CARROSSEL_CAPPUCCINO_CASEIRO/slide_2_ingredientes.jpg",
+      "posts/DIA_39_CARROSSEL_CAPPUCCINO_CASEIRO/slide_3_cafe.jpg",
+      "posts/DIA_39_CARROSSEL_CAPPUCCINO_CASEIRO/slide_4_leite.jpg",
+      "posts/DIA_39_CARROSSEL_CAPPUCCINO_CASEIRO/slide_5_final.jpg",
+      "posts/DIA_39_CARROSSEL_CAPPUCCINO_CASEIRO/slide_6_cta.jpg"
+    ],
+    "legenda": "Cappuccino caseiro sem máquina de espresso, sem vaporizador, sem drama.\n\n18g de café moído médio + 120ml de água a 92°C no V60 (proporção 1:6, bem forte). Leite integral aquecido a 65°C, batedor de arame na jarra por 45 segundos — espuma densa em casa.\n\nDespeja o café na xícara grande, coloca a espuma por cima, pitada de cacau. Prato na mão, cinco minutos, cafeteria de sábado na sua cozinha.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Receita / Tutorial / Cafeteria em casa",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_40",
+    "folder": "DIA_40_CARROSSEL_ANTIOXIDANTES",
+    "data_agendada": "2026-07-14T18:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 5
+    },
+    "arquivos": [
+      "posts/DIA_40_CARROSSEL_ANTIOXIDANTES/slide_1_capa.jpg",
+      "posts/DIA_40_CARROSSEL_ANTIOXIDANTES/slide_2_comparativo.jpg",
+      "posts/DIA_40_CARROSSEL_ANTIOXIDANTES/slide_3_acido.jpg",
+      "posts/DIA_40_CARROSSEL_ANTIOXIDANTES/slide_4_torra.jpg",
+      "posts/DIA_40_CARROSSEL_ANTIOXIDANTES/slide_5_cta.jpg"
+    ],
+    "legenda": "O café é a maior fonte de antioxidantes da dieta ocidental — maior que chá verde, vinho tinto e até açaí, segundo o Departamento de Agricultura dos EUA.\n\nO principal composto é o ácido clorogênico: anti-inflamatório, melhora sensibilidade à insulina, protege o DNA contra o estresse oxidativo.\n\nDica: torra clara preserva mais antioxidantes. Torra escura queima parte deles em troca de corpo. Cada xícara é uma pequena dose de proteção.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Saude / Ciencia / Antioxidantes",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_41",
+    "folder": "DIA_41_ESTATICO_HOME_OFFICE",
+    "data_agendada": "2026-07-16T19:00:00-03:00",
+    "tipo": "ESTATICO",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade": 1
+    },
+    "arquivos": [
+      "posts/DIA_41_ESTATICO_HOME_OFFICE/dia41_home_office.jpg"
+    ],
+    "legenda": "Home office funciona melhor quando a pausa é boa.\n\nQuatorze horas e vinte e três da tarde. Entre duas reuniões, uma xícara quente, cinco minutos de silêncio, três linhas escritas num caderno.\n\nA reunião das três da tarde vai agradecer.\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Lifestyle / Home office",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  },
+  {
+    "post_id": "CAFFEDELLI_DIA_42",
+    "folder": "DIA_42_CARROSSEL_5_METODOS_COMPARADOS",
+    "data_agendada": "2026-07-18T10:00:00-03:00",
+    "tipo": "CARROSSEL",
+    "formato": {
+      "proporcao": "4:5",
+      "quantidade_slides": 6
+    },
+    "arquivos": [
+      "posts/DIA_42_CARROSSEL_5_METODOS_COMPARADOS/slide_1_capa.jpg",
+      "posts/DIA_42_CARROSSEL_5_METODOS_COMPARADOS/slide_2_v60.jpg",
+      "posts/DIA_42_CARROSSEL_5_METODOS_COMPARADOS/slide_3_chemex.jpg",
+      "posts/DIA_42_CARROSSEL_5_METODOS_COMPARADOS/slide_4_prensa.jpg",
+      "posts/DIA_42_CARROSSEL_5_METODOS_COMPARADOS/slide_5_aeropress.jpg",
+      "posts/DIA_42_CARROSSEL_5_METODOS_COMPARADOS/slide_6_moka.jpg"
+    ],
+    "legenda": "Cinco métodos. Cinco resultados completamente diferentes com o mesmo grão.\n\nV60 deixa tudo doce e aromático. Chemex entrega o café mais limpo que existe. Prensa francesa é corpo, intensidade e rusticidade. AeroPress é o mais rápido e inquebrável. Moka é espresso de casa, concentrado, italiano.\n\nSalva o carrossel e experimenta todos. Qual método combina com o seu paladar?\n\ncaffedelli.com.br",
+    "localizacao": "Muzambinho, MG",
+    "pilar_de_conteudo": "Preparo / Comparativo",
+    "data_especial": null,
+    "status": "PRONTO_PARA_POSTAR",
+    "postado_em": null,
+    "url_post": null,
+    "ultima_tentativa": null,
+    "erro": null
+  }
+]
