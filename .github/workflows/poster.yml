@@ -48,6 +48,8 @@ jobs:
           git add schedule.json
           if ! git diff --cached --quiet; then
             git commit -m "auto: schedule update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            # Rebase antes de push para evitar colisao com outros runs
+            git pull --rebase origin ${{ github.ref_name }} || true
             git push
           else
             echo "Sem mudancas no schedule"
