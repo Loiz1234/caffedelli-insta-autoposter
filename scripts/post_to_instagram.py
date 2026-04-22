@@ -13,10 +13,13 @@ from ig_api import InstagramPoster, IGError
 ROOT = Path(__file__).resolve().parent.parent
 SCHEDULE_FILE = ROOT / "schedule.json"
 
-# Janela de tolerancia — so posta se atraso <= 1h
-TOLERANCE_HOURS = 1
+# Janela de tolerancia — so posta se atraso <= 4h
+# GitHub Actions cron pode atrasar ate 15-60 min em horarios de pico (SLA do GitHub).
+# 4h da margem segura sem arriscar postar em horario inadequado (ver SAFE_END_HOUR).
+TOLERANCE_HOURS = 4
 
-# Horario seguro — nao posta entre 00h e 07h locais (BR)
+# Horario seguro — nao posta entre 23h e 07h locais (BR)
+# Protecao extra caso cron atrase muito — nao publica de madrugada.
 SAFE_START_HOUR = 7   # nao posta antes
 SAFE_END_HOUR = 23    # nao posta depois
 TZ_BR = timezone(timedelta(hours=-3))
