@@ -2,8 +2,9 @@ name: Caffedelli Auto-Poster
 
 on:
   schedule:
-    # A cada 15 minutos
-    - cron: '*/15 * * * *'
+    # A cada 1 hora (economia de minutos do GitHub Actions Free)
+    # Tolerancia de 4h no scheduler garante que posts saem no dia agendado
+    - cron: '0 * * * *'
   workflow_dispatch:
     inputs:
       dry_run:
