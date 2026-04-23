@@ -31,28 +31,34 @@ class InstagramPoster:
         return r.json()
 
     # ---------------- Containers ----------------
-    def create_image_container(self, image_url: str, caption: str = "", is_carousel_item: bool = False) -> str:
+    def create_image_container(self, image_url: str, caption: str = "", is_carousel_item: bool = False, location_id: str = None) -> str:
         data = {"image_url": image_url}
         if caption:
             data["caption"] = caption
         if is_carousel_item:
             data["is_carousel_item"] = "true"
+        if location_id and not is_carousel_item:
+            data["location_id"] = location_id
         r = self._request("POST", f"{self.user_id}/media", data=data)
         return r["id"]
 
-    def create_video_container(self, video_url: str, caption: str = "", media_type: str = "REELS") -> str:
+    def create_video_container(self, video_url: str, caption: str = "", media_type: str = "REELS", location_id: str = None) -> str:
         data = {"video_url": video_url, "media_type": media_type}
         if caption:
             data["caption"] = caption
+        if location_id:
+            data["location_id"] = location_id
         r = self._request("POST", f"{self.user_id}/media", data=data)
         return r["id"]
 
-    def create_carousel_container(self, children_ids: list, caption: str) -> str:
+    def create_carousel_container(self, children_ids: list, caption: str, location_id: str = None) -> str:
         data = {
             "media_type": "CAROUSEL",
             "children": ",".join(children_ids),
             "caption": caption,
         }
+        if location_id:
+            data["location_id"] = location_id
         r = self._request("POST", f"{self.user_id}/media", data=data)
         return r["id"]
 
@@ -82,34 +88,42 @@ class InstagramPoster:
             return ""
 
     # ---------------- High-level post methods ----------------
-    def post_single_image(self, image_url: str, caption: str) -> dict:
-        container = self.create_image_container(image_url, caption=caption)
+    def post_single_image(self, image_url: str, caption: str, location_id: str = None) -> dict:
+        container = self.create_image_container(image_url, caption=caption, location_id=location_id)
         # Imagens publicam rapido, mas damos um pequeno buffer
         time.sleep(3)
         result = self.publish(container)
         result["permalink"] = self.get_permalink(result["id"])
         return result
 
-    def post_carousel(self, image_urls: list, caption: str) -> dict:
+    def post_carousel(self, image_urls: list, caption: str, location_id: str = None) -> dict:
         if len(image_urls) < 2 or len(image_urls) > 10:
             raise IGError(f"Carrossel exige 2 a 10 itens, recebido: {len(image_urls)}")
         children = [self.create_image_container(u, is_carousel_item=True) for u in image_urls]
         # Aguarda todos ficarem prontos
         for cid in children:
             self.wait_container_ready(cid, timeout_s=300)
-        parent = self.create_carousel_container(children, caption)
+        parent = self.create_carousel_container(children, caption, location_id=location_id)
         self.wait_container_ready(parent, timeout_s=300)
         result = self.publish(parent)
         result["permalink"] = self.get_permalink(result["id"])
         return result
 
-    def post_reel(self, video_url: str, caption: str, cover_url: str = None) -> dict:
+    def post_reel(self, video_url: str, caption: str, cover_url: str = None, location_id: str = None) -> dict:
         data = {"video_url": video_url, "media_type": "REELS", "caption": caption}
         if cover_url:
             data["cover_url"] = cover_url
+        if location_id:
+            data["location_id"] = location_id
         r = self._request("POST", f"{self.user_id}/media", data=data)
         container = r["id"]
         self.wait_container_ready(container, timeout_s=900)  # video precisa processar
         result = self.publish(container)
         result["permalink"] = self.get_permalink(result["id"])
         return result
+
+    # ---------------- Location helpers ----------------
+    def search_location(self, query: str, limit: int = 10) -> list:
+        """Busca Paginas do Facebook que podem ser usadas como location_id no Instagram."""
+        r = self._request("GET", "pages/search", params={"q": query, "limit": str(limit)})
+        return r.get("data", [])

@@ -1,0 +1,32 @@
+name: Find Location ID
+
+# Gatilha manualmente na aba Actions.
+# Usa teu IG_ACCESS_TOKEN pra buscar paginas do Facebook que
+# podem ser usadas como location_id no Instagram.
+#
+# Depois de rodar, copia o ID da pagina certa dos logs
+# e adiciona como Secret IG_LOCATION_ID.
+
+on:
+  workflow_dispatch:
+    inputs:
+      query:
+        description: 'Termo de busca (ex: Muzambinho)'
+        required: true
+        default: 'Muzambinho'
+
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - name: Search locations
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          LOCATION_QUERY: ${{ inputs.query }}
+        run: python scripts/find_location.py

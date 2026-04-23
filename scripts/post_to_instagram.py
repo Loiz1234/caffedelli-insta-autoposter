@@ -70,21 +70,22 @@ def should_post(entry, now: datetime) -> bool:
     return True
 
 
-def post_entry(poster: InstagramPoster, entry) -> dict:
+def post_entry(poster: InstagramPoster, entry, location_id: str = None) -> dict:
     tipo = entry.get("tipo", "ESTATICO")
     legenda = entry.get("legenda", "")
     arquivos = entry["arquivos"]
     urls = [build_public_url(f) for f in arquivos]
 
-    log(f"Publicando {entry['post_id']} ({tipo}) — {len(urls)} arquivo(s)")
+    log(f"Publicando {entry['post_id']} ({tipo}) — {len(urls)} arquivo(s)"
+        + (f" — localizacao={location_id}" if location_id else ""))
 
     if tipo == "REEL":
         # Primeiro arquivo = video
-        return poster.post_reel(urls[0], caption=legenda)
+        return poster.post_reel(urls[0], caption=legenda, location_id=location_id)
     elif tipo == "CARROSSEL":
-        return poster.post_carousel(urls, caption=legenda)
+        return poster.post_carousel(urls, caption=legenda, location_id=location_id)
     elif tipo == "ESTATICO":
-        return poster.post_single_image(urls[0], caption=legenda)
+        return poster.post_single_image(urls[0], caption=legenda, location_id=location_id)
     else:
         raise IGError(f"Tipo de post desconhecido: {tipo}")
 
@@ -92,6 +93,7 @@ def post_entry(poster: InstagramPoster, entry) -> dict:
 def main():
     user_id = os.environ.get("IG_USER_ID")
     token = os.environ.get("IG_ACCESS_TOKEN")
+    location_id = os.environ.get("IG_LOCATION_ID")  # opcional, pode ser None
     dry_run = os.environ.get("DRY_RUN", "false").lower() == "true"
 
     now = datetime.now(TZ_BR)
@@ -127,7 +129,7 @@ def main():
     for entry in pending:
         entry["ultima_tentativa"] = now.isoformat()
         try:
-            result = post_entry(poster, entry)
+            result = post_entry(poster, entry, location_id=location_id)
             entry["status"] = "POSTADO"
             entry["postado_em"] = datetime.now(TZ_BR).isoformat()
             entry["url_post"] = result.get("permalink") or f"ig://media/{result.get('id')}"
