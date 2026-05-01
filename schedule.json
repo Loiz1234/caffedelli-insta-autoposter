@@ -120,11 +120,12 @@
     "localizacao": "Muzambinho, MG",
     "pilar_de_conteudo": "Prova social / Autoridade",
     "data_especial": null,
-    "status": "PRONTO_PARA_POSTAR",
-    "postado_em": null,
-    "url_post": null,
-    "ultima_tentativa": null,
-    "erro": null
+    "status": "POSTADO",
+    "postado_em": "2026-05-01T19:50:37.301398-03:00",
+    "url_post": "https://www.instagram.com/p/DX0DzH0joLJ/",
+    "ultima_tentativa": "2026-05-01T19:50:25.565984-03:00",
+    "erro": null,
+    "media_id": "17951297658131992"
   },
   {
     "post_id": "CAFFEDELLI_DIA_06",
