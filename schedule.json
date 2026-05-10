@@ -221,11 +221,12 @@
     "localizacao": "Muzambinho, MG",
     "pilar_de_conteudo": "Lifestyle / Receita / Harmonizacao",
     "data_especial": null,
-    "status": "PRONTO_PARA_POSTAR",
-    "postado_em": null,
-    "url_post": null,
-    "ultima_tentativa": null,
-    "erro": null
+    "status": "POSTADO",
+    "postado_em": "2026-05-10T10:17:46.328602-03:00",
+    "url_post": "https://www.instagram.com/p/DYKNZGtlhLD/",
+    "ultima_tentativa": "2026-05-10T10:17:33.112287-03:00",
+    "erro": null,
+    "media_id": "18168577411420084"
   },
   {
     "post_id": "CAFFEDELLI_DIA_10",
