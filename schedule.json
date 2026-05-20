@@ -326,11 +326,12 @@
     "localizacao": "Muzambinho, MG",
     "pilar_de_conteudo": "Fechamento / CTA emocional",
     "data_especial": null,
-    "status": "PRONTO_PARA_POSTAR",
-    "postado_em": null,
-    "url_post": null,
-    "ultima_tentativa": null,
-    "erro": null
+    "status": "POSTADO",
+    "postado_em": "2026-05-20T18:53:25.914999-03:00",
+    "url_post": "https://www.instagram.com/p/DYk4XN1ln_Z/",
+    "ultima_tentativa": "2026-05-20T18:52:56.090126-03:00",
+    "erro": null,
+    "media_id": "17922553296359216"
   },
   {
     "post_id": "CAFFEDELLI_DIA_14",
