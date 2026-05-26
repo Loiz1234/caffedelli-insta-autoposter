@@ -404,11 +404,12 @@
     "localizacao": "Muzambinho, MG",
     "pilar_de_conteudo": "Saude / Ciencia do cafe",
     "data_especial": null,
-    "status": "PRONTO_PARA_POSTAR",
-    "postado_em": null,
-    "url_post": null,
-    "ultima_tentativa": null,
-    "erro": null
+    "status": "POSTADO",
+    "postado_em": "2026-05-26T19:19:28.446615-03:00",
+    "url_post": "https://www.instagram.com/p/DY0YG5RAatM/",
+    "ultima_tentativa": "2026-05-26T19:18:45.090272-03:00",
+    "erro": null,
+    "media_id": "18112846888870317"
   },
   {
     "post_id": "CAFFEDELLI_DIA_17",
