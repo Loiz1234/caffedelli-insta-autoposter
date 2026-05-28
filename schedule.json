@@ -427,11 +427,12 @@
     "localizacao": "Muzambinho, MG",
     "pilar_de_conteudo": "Harmonizacao / Receita",
     "data_especial": null,
-    "status": "PRONTO_PARA_POSTAR",
-    "postado_em": null,
-    "url_post": null,
-    "ultima_tentativa": null,
-    "erro": null
+    "status": "POSTADO",
+    "postado_em": "2026-05-28T20:16:28.735636-03:00",
+    "url_post": "https://www.instagram.com/p/DY5oNzLCYI3/",
+    "ultima_tentativa": "2026-05-28T20:16:14.533272-03:00",
+    "erro": null,
+    "media_id": "17869687017534892"
   },
   {
     "post_id": "CAFFEDELLI_DIA_18",
