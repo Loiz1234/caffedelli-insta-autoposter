@@ -505,11 +505,12 @@
     "localizacao": "Muzambinho, MG",
     "pilar_de_conteudo": "Receita / Harmonizacao / Viral",
     "data_especial": null,
-    "status": "PRONTO_PARA_POSTAR",
-    "postado_em": null,
-    "url_post": null,
-    "ultima_tentativa": null,
-    "erro": null
+    "status": "POSTADO",
+    "postado_em": "2026-06-04T19:21:27.517271-03:00",
+    "url_post": "https://www.instagram.com/p/DZLjeRykgMo/",
+    "ultima_tentativa": "2026-06-04T19:20:34.660174-03:00",
+    "erro": null,
+    "media_id": "18122193064646231"
   },
   {
     "post_id": "CAFFEDELLI_DIA_21",
