@@ -555,11 +555,12 @@
     "localizacao": "Muzambinho, MG",
     "pilar_de_conteudo": "Lifestyle / Slow living",
     "data_especial": null,
-    "status": "PRONTO_PARA_POSTAR",
-    "postado_em": null,
-    "url_post": null,
-    "ultima_tentativa": null,
-    "erro": null
+    "status": "POSTADO",
+    "postado_em": "2026-06-07T11:52:05.667493-03:00",
+    "url_post": "https://www.instagram.com/p/DZSecaPEnLm/",
+    "ultima_tentativa": "2026-06-07T11:51:51.854272-03:00",
+    "erro": null,
+    "media_id": "18104730541990687"
   },
   {
     "post_id": "CAFFEDELLI_DIA_23",
