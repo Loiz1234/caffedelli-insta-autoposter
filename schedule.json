@@ -606,11 +606,12 @@
     "localizacao": "Muzambinho, MG",
     "pilar_de_conteudo": "Preparo / Metodo rapido",
     "data_especial": null,
-    "status": "PRONTO_PARA_POSTAR",
-    "postado_em": null,
-    "url_post": null,
-    "ultima_tentativa": null,
-    "erro": null
+    "status": "POSTADO",
+    "postado_em": "2026-06-11T20:20:57.052629-03:00",
+    "url_post": "https://www.instagram.com/p/DZdr29NmfPf/",
+    "ultima_tentativa": "2026-06-11T20:20:43.359172-03:00",
+    "erro": null,
+    "media_id": "17973529779051113"
   },
   {
     "post_id": "CAFFEDELLI_DIA_25",
