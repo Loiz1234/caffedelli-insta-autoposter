@@ -634,11 +634,12 @@
     "localizacao": "Muzambinho, MG",
     "pilar_de_conteudo": "Dia dos Namorados / Romance / Combo",
     "data_especial": "Dia dos Namorados (12/06)",
-    "status": "PRONTO_PARA_POSTAR",
-    "postado_em": null,
-    "url_post": null,
-    "ultima_tentativa": null,
-    "erro": null
+    "status": "POSTADO",
+    "postado_em": "2026-06-12T18:43:48.164666-03:00",
+    "url_post": "https://www.instagram.com/p/DZgFiWmDuwF/",
+    "ultima_tentativa": "2026-06-12T18:43:12.620218-03:00",
+    "erro": null,
+    "media_id": "17943825279034358"
   },
   {
     "post_id": "CAFFEDELLI_DIA_26",
