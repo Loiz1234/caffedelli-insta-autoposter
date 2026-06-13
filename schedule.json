@@ -657,11 +657,12 @@
     "localizacao": "Muzambinho, MG",
     "pilar_de_conteudo": "Receita / Harmonizacao rapida",
     "data_especial": null,
-    "status": "PRONTO_PARA_POSTAR",
-    "postado_em": null,
-    "url_post": null,
-    "ultima_tentativa": null,
-    "erro": null
+    "status": "POSTADO",
+    "postado_em": "2026-06-13T12:00:13.971118-03:00",
+    "url_post": "https://www.instagram.com/p/DZh8JI1jpyB/",
+    "ultima_tentativa": "2026-06-13T11:59:59.772494-03:00",
+    "erro": null,
+    "media_id": "18119435725691005"
   },
   {
     "post_id": "CAFFEDELLI_DIA_27",
